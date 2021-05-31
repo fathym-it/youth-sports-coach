@@ -1,7 +1,7 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
-  title: 'Coach Gearhardt (Coach Mike)',
-  tagline: '5U Tee Ball & 7U Coach Pitch',
+  title: 'Coach Gearhardt',
+  tagline: '(Coach Mike) 5U Tee Ball & 7U Coach Pitch',
   url: 'https://coach.gearhardt.com',
   baseUrl: '/',
   onBrokenLinks: 'throw',
