@@ -24,6 +24,6 @@ P.S.  Catching is a skill that they are just learing.  We'll work on catching, j
 
 I am coaching both of my kids' teams, one 5U Tee Ball the other 7U Coach Pitch.  Based on the team your kid is playing on, you can jump to the appropriate next section.
 
-[5U Tee Ball - Team 8](5U-tee-ball/practices/overview)
+[5U Tee Ball - Team 8](5U-tee-ball/overview)
 
-[7U Coach Pitch - Team 11](7U-coach-pitch/practices/overview)
+[7U Coach Pitch - Team 11](7U-coach-pitch/overview)
