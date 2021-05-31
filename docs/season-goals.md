@@ -1,5 +1,5 @@
 ---
-sidebar_position: 1
+sidebar_position: 3
 ---
 
 # Season Goals
@@ -16,6 +16,14 @@ One of the best ways to keep the kids engaged and having fun, activities.  If yo
 
 ## Basic Skills
 
-Definitely don't want to lose sight of the sport we are playing, but major baseball skills won't really be the focus so much as the basics (which way to run, where to stand, where to throw when you get the ball).  The goal is to make our fun activities deliver these core basics while getting them wanting to come to practice and participate.
+Definitely don't want to lose sight of the sport we are playing, but major baseball skills won't really be the focus so much as the basics (which way to run, how to throw, how to swing, where to stand, where to throw when you get the ball).  The goal is to make our fun activities deliver these core basics while getting them wanting to come to practice and participate.
 
 P.S.  Catching is a skill that they are just learing.  We'll work on catching, just keep in mind that our kids are just learning to focus both eyes on the same target, and it can take some longer than others to get there.
+
+## Next Steps
+
+I am coaching both of my kids' teams, one 5U Tee Ball the other 7U Coach Pitch.  Based on the team your kid is playing on, you can jump to the appropriate next section.
+
+[5U Tee Ball - Team 8](5U-tee-ball/practices/overview)
+
+[7U Coach Pitch - Team 11](7U-coach-pitch/practices/overview)
