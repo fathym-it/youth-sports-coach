@@ -18,4 +18,4 @@ One of the best ways to keep the kids engaged and having fun, activities.  If yo
 
 Definitely don't want to lose sight of the sport we are playing, but major baseball skills won't really be the focus so much as the basics (which way to run, where to stand, where to throw when you get the ball).  The goal is to make our fun activities deliver these core basics while getting them wanting to come to practice and participate.
 
-P.S.  Catching is a skill that comes around later, as our kids get older.  We'll work on catching, just keep in mind that our kids are just learning to focus both eyes on the same target, and it can take some longer than others to get there.
+P.S.  Catching is a skill that they are just learing.  We'll work on catching, just keep in mind that our kids are just learning to focus both eyes on the same target, and it can take some longer than others to get there.
