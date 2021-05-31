@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Season Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Welcome to the 2021 Erie Rec Baseball season (5U Tee Ball )  
 
 ## Getting Started
 
