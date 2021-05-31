@@ -2,34 +2,6 @@
 sidebar_position: 1
 ---
 
-# Season Introduction
+# Introduction
 
-Welcome to the 2021 Erie Rec Baseball season (5U Tee Ball )  
-
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[new.docusaurus.io](https://new.docusaurus.io)**.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**:
-
-```shell
-npx @docusaurus/init@latest init my-website classic
-```
-
-## Start your site
-
-Run the development server:
-
-```shell
-cd my-website
-
-npx docusaurus start
-```
-
-Your site starts at `http://localhost:3000`.
-
-Open `docs/intro.md` and edit some lines: the site **reloads automatically** and display your changes.
+Welcome to the 2021 Erie Rec Baseball season.  My name is Michael Gearhardt, and I am so happy to get the opportunity to coach my two sons and your kids.  My wife, Diana, and I are working towards fielding our own famliy baseball team (though we may stop at basketball), expecting our 3rd son in late September.  I played baseball from this same age though competitive high school ball, and now try to play old man slow-pitch when I can.  I work as a CTO for Fathym, a software company out of Boulder, and am a Colorado native from Fort Collins.  
