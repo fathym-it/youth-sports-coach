@@ -12,7 +12,7 @@ The most important role I have at this early stage, is keeping the kids engaged.
 
 ## Stay Active
 
-One of the best ways to keep the kids engaged and having fun, activities.  If your used to playing baseball, remember that we have to go all the way back to the basics.  Our "drills" will be fun activities that work towards these basics while making sure the kids are having fun.
+One of the best ways to keep the kids engaged and having fun, activities.  If you are used to playing baseball, remember that we have to go all the way back to the basics.  Our "drills" will be fun activities that work towards these basics while making sure the kids are having fun.
 
 ## Basic Skills
 
