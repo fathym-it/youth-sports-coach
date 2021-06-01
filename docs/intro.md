@@ -8,4 +8,4 @@ Welcome to the 2021 Erie Rec Baseball season.  My name is Michael Gearhardt, and
 
 ## Feedback
 
-This is my first time as a youth athletics coach, and there are are really only a couple facts in that a) I am not perfect, and b) I really have no clue what I am doing.  That said, stick with me and please provide your feedback.  Together we can make sure that all our kids have a fun and enjoyable season.
+This is my first time as a youth athletics coach, and there are really only a couple facts in that a) I am not perfect, and b) I really have no clue what I am doing.  That said, stick with me and please provide your feedback.  Together we can make sure that all our kids have a fun and enjoyable season.
