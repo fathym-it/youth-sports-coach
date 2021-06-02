@@ -11,11 +11,11 @@ With the age of our kids, winning will be fun, but not my main focus as the coac
 
 ## Practice Information
 
-Practices will be held on Wednesdays from 6pm to 7pm.  I am coaching this team, and my other son's Coach pitch team at different fields, so practices will generally start around 6:05 or 6:10 so I can get from the other field.  I would love for someone to volunteer as an assistant coach, and maybe we'll be able to do warmups in those first 10 minutes of practice.
+Practices will be held on Wednesdays from 6pm to 7pm.  I am coaching this team, and my other son's Coach pitch team at different fields, so practices will generally start around 6:05 or 6:10 so I can get from the other field.  We'll shoot for around 45 minutes of practice (I think that's about all the time we'll get in attention from the little ones).
 
 ## Game Schedules
 
-They will be posted to http://www.quickscores.com/erie, hopefully by next Tuesday.
+Game schedules just came out, and can be seen [here]().
 
 ## The Field Map
 
