@@ -3,7 +3,7 @@ sidebar_label: Practice 1
 sidebar_position: 1
 ---
 
-# 5U Tee Ball - Practice 1
+# 5U Tee Ball - Practice 1 (6/2)
 
 The players should be able to grip a ball correctly, successfully attempt an overhand throw, and run the bases with guidance.
 
