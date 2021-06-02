@@ -15,7 +15,7 @@ Practices will be held on Wednesdays from 6pm to 7pm.  I am coaching this team, 
 
 ## Game Schedules
 
-Game schedules just came out, and can be seen [here]().
+Game schedules are out and can be seen from the link in your email.
 
 ## The Field Map
 

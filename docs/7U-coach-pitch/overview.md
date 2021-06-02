@@ -15,7 +15,7 @@ Practices will be held on Wednesdays from 5pm to 6pm.  I am coaching this team, 
 
 ## Game Schedules
 
-They will be posted to http://www.quickscores.com/erie, hopefully by this Tuesday.
+Game schedules are out and can be seen from the link in your email.
 
 ## The Field Map
 
