@@ -30,7 +30,7 @@ Explain the game to players while they are still gathered from the welcome. Whil
 
 ### Grip and Throw (3 minutes)
 
-Call players to the pitcher’s plate and have them make a circle. While kneeling inside of the circle, talk about holding a baseball/softball the correct way to make good throws. The coach should make sure players understand which hand to use to throw. It will be known as their “favorite hand” and is usually the one used to write or color. The coach should demonstrate the proper grip on the ball with fingers on top and the thumb underneath. The ball should be held in the fingers if possible and with the same pressure the players hold a tube of tohpaste. They should control the ball but not squeeze it. 
+Call players to the pitcher’s plate and have them make a circle. While kneeling inside of the circle, talk about holding a baseball/softball the correct way to make good throws. The coach should make sure players understand which hand to use to throw. It will be known as their “favorite hand” and is usually the one used to write or color. The coach should demonstrate the proper grip on the ball with fingers on top and the thumb underneath. The ball should be held in the fingers if possible and with the same pressure the players hold a tube of tohpaste. They should control the ball but not squeeze it.
 
 ## Throwing (12 minutes)
 
