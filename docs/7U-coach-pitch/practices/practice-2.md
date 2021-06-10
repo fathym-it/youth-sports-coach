@@ -3,7 +3,7 @@ sidebar_label: Practice 2
 sidebar_position: 2
 ---
 
-# 5U Tee Ball - Practice 2 (6/9)
+# 7U Coach Pitch - Practice 2 (6/9)
 
 ## Practice Goals
 
