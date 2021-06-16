@@ -1,6 +1,6 @@
 ---
-sidebar_label: Practice 2
-sidebar_position: 2
+sidebar_label: Practice 3
+sidebar_position: 3
 ---
 
 # 7U Coach Pitch - Practice 3 (6/16)

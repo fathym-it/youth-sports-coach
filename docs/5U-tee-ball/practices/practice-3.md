@@ -1,9 +1,9 @@
 ---
-sidebar_label: Practice 2
-sidebar_position: 2
+sidebar_label: Practice 3
+sidebar_position: 3
 ---
 
-# 5U Tee Ball - Practice 2 (6/16)
+# 5U Tee Ball - Practice 3 (6/16)
 
 ## Practice Sequence
 
