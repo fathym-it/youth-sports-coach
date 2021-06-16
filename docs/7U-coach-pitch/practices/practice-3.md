@@ -15,6 +15,10 @@ Talk about the fundamentals of getting an out by tagging the runner.  Start with
 
 ### Warm-up/Stretching (5 Minutes)
 
+### Big league base running (5 Minutes)
+
+Silly Running
+
 ### Throwing Fundamentals (10 Minutes)
 
 - Line up along baseline
